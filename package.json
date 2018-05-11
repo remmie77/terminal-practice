@@ -1,0 +1,15 @@
+npm{
+  "name": "terminal-practice",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "jquery.js",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jesse remington",
+  "license": "ISC"
+}
